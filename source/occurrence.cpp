@@ -5,7 +5,7 @@
 #include "occurrence.h"
 #include "parser.h"
 #include "timeinterval.h"
-
+#include <cstdlib>
 using namespace std;
 
 extern TimeIntervalSet timeIntervals;

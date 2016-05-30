@@ -3,7 +3,8 @@
 #include <fstream>
 #include <vector>
 #include <cassert>
-
+#include <stdio.h>
+#include <string.h>
 using namespace std;
 
 Parser::Parser(char delim){
