@@ -18,7 +18,8 @@
 
 SNAPE stands for Single Node Age Prior Estimation. This software was produced to calculate informative divergence time priors based on a relatively complete assessment of the fossil record of a single clade of interest. The user must have an estimate of the extant standing diversity (in number of genera) for their clade of interest. To execute the software, navgate to the directory with the executable and simply type:
 
-./SNAPEv1.0
+make
+./snape
 
 Upon start-up, the user is asked for the name of their clade of interest (taxon), which should also be the exact name of the input file (minus file extension).
 
